@@ -1,0 +1,65 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.logo-area{
+height: 50px;
+width: 960px;
+padding-top: 20px;
+padding-left: 40px;
+background: rgb(137, 196, 244);
+
+
+}
+.header-area p{
+	width: 1000px;
+	font-size: 20px;
+	font-family: algerian;
+	padding-left: 40px;
+	margin: 0px;
+	color: #1E449D;
+	}
+.body-area p2{
+	width: 350px;
+	height: 400px;
+	float: left;
+	padding: 20px;
+	font-size: 15px;
+	font-family: tahoma;
+	margin-right: 20px;
+	}
+
+.body-area img-area img{
+	width: 500px;
+	height: 300px;
+	float: right;
+	resize: 90%; 
+	
+}
+.body-area p3{
+	height: 20px;
+	width: 500px;
+	float: left;
+	font-size: 20px;
+	font-family: tahoma;
+	padding-left: 50px;
+	color: #1E449D;
+	}
+	
+	.footer-area p4{
+		width: 1000px;
+		height: 20px;
+		font-size: 25px;
+		float: left;
+		padding-left: 60px;
+		padding-bottom: 10px;
+		font-family: Arial Black;
+		color: #1E449D;
+		
+		
+	}
+
+
+	
+
